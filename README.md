@@ -4,7 +4,7 @@
 -->
 <div align="center">
   <a href="https://portfolio-abhishek197088s-projects.vercel.app/#">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0a0f24&height=200&section=header&text=Akanksh%20Rakesh&fontSize=50&fontColor=4db5ff">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0a0f24&height=200&section=header&text=Abhishek%20KumarS&fontSize=50&fontColor=4db5ff">
   </a>
 </div>
 
