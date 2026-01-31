@@ -22,8 +22,8 @@ I am an overzealous developer passionate about problem-solving and crafting inno
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30"> GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img width = "800" height = "220"  src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=AkankshRakesh&theme=tokyonight&hide_border=true&card_width=800" alt="Akanksh's Streak" />
-  <img src="https://github-stats-smoky-xi.vercel.app/api?username=AkankshRakesh&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" alt="Akanksh's Stats" />
+  <img width = "800" height = "220"  src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=Abhishek197088&theme=tokyonight&hide_border=true&card_width=800" alt="Akanksh's Streak" />
+  <img src="https://github-stats-smoky-xi.vercel.app/api?username=Abhishek197088&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" alt="Akanksh's Stats" />
 </div>
 
 
